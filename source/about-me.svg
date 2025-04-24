@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="200">
+    <style>
+        .text1 {
+            fill: #cdd6f4; 
+        }
+        .headlights{
+            fill: #f5c2e7;
+        }
+    </style>
+    <text class="text1" style="font-family: 'Caskaydia Cove Nerd Font', monospace;">
+        <tspan>About Me:</tspan>
+        <tspan style="fill: #cba6f8;" x="50" y="50" >Age And Background:</tspan>
+        <tspan class="headlights" x="60" y="72" >├─➤</tspan>
+        <tspan> I am an 11th Grade high school student from South Africa 🇿🇦</tspan>
+        <tspan class="headlights" x="60" y="90" >├─➤</tspan>
+        <tspan>I have, for most of my life, had a prevalent passion for</tspan>
+        <tspan class="headlights" x="60" y="106">|  </tspan>
+        <tspan x="98" y="108">Programming and Computers as a whole 💻, and spend most of my </tspan> 
+        <tspan x="98" y="128">free time creating games or reading 📖📚</tspan>
+        <tspan class="headlights" x="60" y="122">|</tspan>
+        <tspan class="headlights" x="60" y="134">|</tspan>
+        <tspan class="headlights" x="60.1" y="146" >╰─➤</tspan>
+        <tspan x="97.5" y="146"> When it comes to books, some of my favorites include <tspan x="97.5" y="166" style="font-style: italic;">To Kill A Mockingbird📖🐦</tspan> or <tspan x="380" y="166" style="font-style: italic;">The White Tiger 🐅❄</tspan>, but that is only </tspan>
+        <tspan x="97.5" y="186"> because they are the most recent books I have read! </tspan>
+    </text>
+</svg>
+
+
+
+
+
